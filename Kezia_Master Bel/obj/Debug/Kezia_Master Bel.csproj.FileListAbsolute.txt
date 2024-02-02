@@ -1,0 +1,16 @@
+F:\Kezia_Wearness\Latihan Project\Kezia_Master Bel\Kezia_Master Bel\bin\Debug\Kezia_Master Bel.exe.config
+F:\Kezia_Wearness\Latihan Project\Kezia_Master Bel\Kezia_Master Bel\bin\Debug\Kezia_Master Bel.exe
+F:\Kezia_Wearness\Latihan Project\Kezia_Master Bel\Kezia_Master Bel\bin\Debug\Kezia_Master Bel.pdb
+F:\Kezia_Wearness\Latihan Project\Kezia_Master Bel\Kezia_Master Bel\obj\Debug\Kezia_Master Bel.csprojAssemblyReference.cache
+F:\Kezia_Wearness\Latihan Project\Kezia_Master Bel\Kezia_Master Bel\obj\Debug\Kezia_Master Bel.csproj.CoreCompileInputs.cache
+F:\Kezia_Wearness\Latihan Project\Kezia_Master Bel\Kezia_Master Bel\obj\Debug\Kezia_Master Bel.exe
+F:\Kezia_Wearness\Latihan Project\Kezia_Master Bel\Kezia_Master Bel\obj\Debug\Kezia_Master Bel.pdb
+E:\Kezia_Wearness\Latihan Project\Kezia_Master Bel\Kezia_Master Bel\bin\Debug\Kezia_Master Bel.exe.config
+E:\Kezia_Wearness\Latihan Project\Kezia_Master Bel\Kezia_Master Bel\bin\Debug\Kezia_Master Bel.exe
+E:\Kezia_Wearness\Latihan Project\Kezia_Master Bel\Kezia_Master Bel\bin\Debug\Kezia_Master Bel.pdb
+E:\Kezia_Wearness\Latihan Project\Kezia_Master Bel\Kezia_Master Bel\obj\Debug\Kezia_Master Bel.csprojAssemblyReference.cache
+E:\Kezia_Wearness\Latihan Project\Kezia_Master Bel\Kezia_Master Bel\obj\Debug\Kezia_Master Bel.csproj.CoreCompileInputs.cache
+E:\Kezia_Wearness\Latihan Project\Kezia_Master Bel\Kezia_Master Bel\obj\Debug\Kezia_Master Bel.exe
+E:\Kezia_Wearness\Latihan Project\Kezia_Master Bel\Kezia_Master Bel\obj\Debug\Kezia_Master Bel.pdb
+E:\Kezia_Wearness\Latihan Project\Kezia_Master Bel\Kezia_Master Bel\bin\Debug\schoolbellsc.accdb
+F:\Kezia_Wearness\Latihan Project\Kezia_Master Bel\Kezia_Master Bel\bin\Debug\schoolbellsc.accdb
